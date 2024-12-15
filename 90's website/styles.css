@@ -1,0 +1,97 @@
+.MainTop {
+    background-color:#00f0ff;
+    height: 200px;
+    margin: 0;
+    padding-bottom: 30px;
+}
+
+#FIFA-main-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 170px;
+}
+
+body{
+    background-color: #2d2a19;
+    margin: 0;
+    
+}
+
+.orbitronb {
+    font-family: "Orbitron", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    }
+
+#slogan {
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+}
+
+#headers-2{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+    color: #2d2a19;
+}
+
+.button-header {
+    padding: 20px;
+    background-color: #2d2a19;
+    border: none;
+    color: coral;
+}
+
+#introText {
+    width: 500px;
+    margin-left: 5%;
+    font-size: 30px;
+    color: chartreuse;
+}
+
+#homeBio{
+    display: flex;
+    justify-content: space-around;
+}
+
+#germanTrophy {
+    height: 450px;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+#matchContent{
+    text-align: center;
+    color: firebrick;
+}
+#matchPic{
+    width: 500px;
+    border-radius: 5px;
+}
+
+#shopItemsAll {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+.jerseyPic{
+    height: 300px;
+}
+
+.shopTop{
+    background-image:linear-gradient(cyan, rgba(85, 6, 89, 0.1)); 
+    height: 50px;
+    text-align: center;
+    color:gold;
+    padding-top: 2px;
+}
+
+.shopItem{
+    color: aliceblue;
+    text-align: center;
+}
+
